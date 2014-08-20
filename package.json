@@ -1,0 +1,11 @@
+{
+  "name": "wechat.js",
+  "version": "0.0.0",
+  "description": "微信公众平台开发Node库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhongao <izhongao@gmail.com>",
+  "license": "ISC"
+}
